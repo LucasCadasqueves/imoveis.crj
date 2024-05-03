@@ -18,4 +18,4 @@ $url_api_txt = "https://imoveiscrj.com.br/web/conteudo/texto.txt";
 $url_api_image = "https://imoveiscrj.com.br/web/conteudo/imagem.txt";
 
 //Delay entre disparo de mensagem, tempo em segundos
-$delay = "10";
+$delay = "8";
