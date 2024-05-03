@@ -12,10 +12,10 @@ Descrição: Projeto OpenSource trabalhado emcima da EvolutionApi, para disparos
 $apiKey = "APIKEY";
 
 //Url envio de Texto
-$url_api_txt = "https://seusite.com.br/message/sendText/SuaInstancia";
+$url_api_txt = "https://imoveiscrj.com.br/web/conteudo/texto.txt";
 
 //Url envio com imagem
-$url_api_image = "https://seusite.com.br/message/sendMedia/SuaInstancia";
+$url_api_image = "https://imoveiscrj.com.br/web/conteudo/imagem.txt";
 
 //Delay entre disparo de mensagem, tempo em segundos
 $delay = "10";
