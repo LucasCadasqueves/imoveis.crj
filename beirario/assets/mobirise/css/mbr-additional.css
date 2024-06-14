@@ -1339,11 +1339,6 @@ a {
 }
 .cid-ufGdMvymg8 {
   display: flex;
-  background-image: url("../../../assets/images/background17.jpg");
-}
-.cid-ufGdMvymg8 .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-ufGdMvymg8 {
@@ -1384,6 +1379,7 @@ a {
 }
 .cid-ufGdMvymg8 .mbr-section-title {
   color: #3141e0;
+  text-align: center;
 }
 .cid-ufGdONsRyx {
   padding-top: 6rem;
